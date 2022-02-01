@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x94C6e4e1AeA3cB8faF3268F73E2bd2084f55bef7",
+  "SCAN_LINK": "https://polygonscan.com/address/0x94C6e4e1AeA3cB8faF3268F73E2bd2084f55bef7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Prophecy Genesis NFT",
+  "SYMBOL": "PGNFT",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/prophecygenesisnft",
+  "SHOW_BACKGROUND": true
+}
